@@ -17,3 +17,6 @@ Trabalho desenvolvido para a disciplina de Arquitetura de Computadores do 1° pe
 </ol>
 
 <hr>
+<h3>Protótipo desenvolvido no <a href:"https://www.tinkercad.com/">Tinkercad</a><h3>
+  ![image](https://user-images.githubusercontent.com/81810017/229359293-13f55145-d0ed-4abb-9cf3-46e71eaba3cb.png)
+<hr>
