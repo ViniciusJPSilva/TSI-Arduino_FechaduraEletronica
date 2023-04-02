@@ -2,9 +2,8 @@
 Trabalho desenvolvido para a disciplina de Arquitetura de Computadores do 1° período do curso Tecnólogo em Sistemas para Internet (TSI). Utiliza uma placa Arduíno UNO e o algoritmo foi desenvolvido em C++.
 
 <hr>
-
+<h3>Lista de componentes</h3>
 <ol> 
-  <title>Lista de componentes</title>
   <li>1 Arduíno UNO</li>
   <li>1 Protoboard</li>
   <li>1 Teclado Matricial de Membrana 4x4</li>
