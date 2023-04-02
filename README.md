@@ -21,4 +21,8 @@ Trabalho desenvolvido para a disciplina de Arquitetura de Computadores do 1° pe
   
 ![image](https://user-images.githubusercontent.com/81810017/229359293-13f55145-d0ed-4abb-9cf3-46e71eaba3cb.png)
   
+<br>
+  
+![image](https://user-images.githubusercontent.com/81810017/229359605-9860d9a7-f881-4da8-82b1-502040ceac5a.png)
+  
 <hr>
