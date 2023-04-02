@@ -4,6 +4,7 @@ Trabalho desenvolvido para a disciplina de Arquitetura de Computadores do 1° pe
 <hr>
 
 <ol> 
+  <title>Lista de componentes</title>
   <li>1 Arduíno UNO</li>
   <li>1 Protoboard</li>
   <li>1 Teclado Matricial de Membrana 4x4</li>
